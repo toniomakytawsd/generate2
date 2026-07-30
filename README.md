@@ -38,12 +38,12 @@ Ta sekcja jest przeznaczona dla osób, które chcą edytować kod, rozbudowywać
    git clone https://github.com/toniomakytawsd/generate2.git
    
 **Przejdź do folderu z projektem:**
-cd generator-nickow
+cd generate2
 
 **Zainstaluj wymagane zależności:**
 pip install customtkinter
 
 **Uruchom aplikację:**
-python main.py
+python gennick.py
 
 btw to wiem jak ogarnac markdown bo mam discorda
