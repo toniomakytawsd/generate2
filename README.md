@@ -35,7 +35,7 @@ Ta sekcja jest przeznaczona dla osób, które chcą edytować kod, rozbudowywać
 
 1. Sklonuj repozytorium:
    ```bash
-   git clone https://github.com/twoj-username/generator-nickow.git
+   git clone https://github.com/toniomakytawsd/generate2.git
    
 **Przejdź do folderu z projektem:**
 cd generator-nickow
