@@ -9,7 +9,7 @@ Prosta i elegancka aplikacja okienkowa (GUI) do szybkiego generowania unikalnych
 **Nie musisz instalować Pythona ani niczego konfigurować!**
 
 1. Przejdź do sekcji **Releases** po prawej stronie repozytorium.
-2. Pobierz plik `generate2.exe`.
+2. Pobierz plik `gennick.exe` lub `gennick.zip`
 3. Uruchom go dwuklikiem — program jest gotowy do działania.
 
 ---
